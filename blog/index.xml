@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tom Limbaugh</title>
-    <link>https://americanguitar.github.io/</link>
-    <description>Recent content on Tom Limbaugh</description>
+    <title>Blogs on Tom Limbaugh</title>
+    <link>https://americanguitar.github.io/blog/</link>
+    <description>Recent content in Blogs on Tom Limbaugh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Aug 2021 22:31:36 -0400</lastBuildDate><atom:link href="https://americanguitar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 22:31:36 -0400</lastBuildDate><atom:link href="https://americanguitar.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OrganicViewController</title>
       <link>https://americanguitar.github.io/blog/organicviewcontroller/</link>
